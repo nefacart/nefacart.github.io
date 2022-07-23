@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body { 
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(251, 37, 94, 0.656) 0.1%, rgba(7, 14, 144, 0.475) 99.8% );
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  
+    
+
+  }
+
+  .ftext{
+    font-family: 'Dancing Script', cursive;
+font-size: 60px;
+  }
+
+  .logoimg{
+    height: 80px;
+    width: 100%;
+  }
